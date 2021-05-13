@@ -3,6 +3,9 @@ The projects in this repo are a part of my course from UDACITY.This project is a
 I used google colab to work on this, you can implement it on google colab otherwise on Jupyter notbook as well. Through google colab I can directly import my code to the Github.
 
 
+1. Simple Neural Network : Celsius to Farenheit
+2. Image Classification - Fashion MNIST
+
 **The First Project is  a simple neural network to convert celsius values to Farenheit**
 
 You can check out my blog on the same project for a more detailed understanding : https://pooj124.hashnode.dev/simple-neural-network-celsius-to-fahrenheit-ckol3o5sa04op3js1gf2l70oa
